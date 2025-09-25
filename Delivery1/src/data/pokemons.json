@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Arcanine",
+        "imageUrl": "./src/assets/Arcanine.png"
+    },
+    {
+        "name": "Beedrill",
+        "imageUrl": "./src/assets/Beedrill.png"
+    },
+    {
+        "name": "Blastoise",
+        "imageUrl": "./src/assets/Blastoise.png"
+    },
+    {
+        "name": "Bulbasaur",
+        "imageUrl": "./src/assets/Bulbasaur.png"
+    },
+    {
+        "name": "Butterfree",
+        "imageUrl": "./src/assets/Butterfree.png"
+    },
+    {
+        "name": "Caterpie",
+        "imageUrl": "./src/assets/Caterpie.png"
+    },
+    {
+        "name": "Charizard",
+        "imageUrl": "./src/assets/Charizard.png"
+    },
+    {
+        "name": "Charmander",
+        "imageUrl": "./src/assets/Charmander.png"
+    },
+    {
+        "name": "Charmeleon",
+        "imageUrl": "./src/assets/Charmeleon.png"
+    },
+    {
+        "name": "Clefable",
+        "imageUrl": "./src/assets/Clefable.png"
+    },
+    {
+        "name": "Dewgong",
+        "imageUrl": "./src/assets/Dewgong.png"
+    },
+    {
+        "name": "Farfetchd",
+        "imageUrl": "./src/assets/Farfetchd.png"
+    },
+    {
+        "name": "Golbat",
+        "imageUrl": "./src/assets/Golbat.png"
+    },
+    {
+        "name": "Ivysaur",
+        "imageUrl": "./src/assets/Ivysaur.png"
+    },
+    {
+        "name": "Kadabra",
+        "imageUrl": "./src/assets/Kadabra.png"
+    },
+    {
+        "name": "Kakuna",
+        "imageUrl": "./src/assets/Kakuna.png"
+    },
+    {
+        "name": "Metapod",
+        "imageUrl": "./src/assets/Metapod.png"
+    },
+    {
+        "name": "Pidgeot",
+        "imageUrl": "./src/assets/Pidgeot.png"
+    },
+    {
+        "name": "Pidgeotto",
+        "imageUrl": "./src/assets/Pidgeotto.png"
+    },
+    {
+        "name": "Pidgey",
+        "imageUrl": "./src/assets/Pidgey.png"
+    },
+    {
+        "name": "Pikachu",
+        "imageUrl": "./src/assets/Pikachu.png"
+    },
+    {
+        "name": "Ponyta",
+        "imageUrl": "./src/assets/Ponyta.png"
+    },
+    {
+        "name": "Raichu",
+        "imageUrl": "./src/assets/Raichu.png"
+    },
+    {
+        "name": "Raticate",
+        "imageUrl": "./src/assets/Raticate.png"
+    },
+    {
+        "name": "Rattata",
+        "imageUrl": "./src/assets/Rattata.png"
+    },
+    {
+        "name": "Squirtle",
+        "imageUrl": "./src/assets/Squirtle.png"
+    },
+    {
+        "name": "Venusaur",
+        "imageUrl": "./src/assets/Venusaur.png"
+    },
+    {
+        "name": "Vulpix",
+        "imageUrl": "./src/assets/Vulpix.png"
+    },
+    {
+        "name": "Wartortle",
+        "imageUrl": "./src/assets/Wartortle.png"
+    },
+    {
+        "name": "Weedle",
+        "imageUrl": "./src/assets/Weedle.png"
+    }
+]
