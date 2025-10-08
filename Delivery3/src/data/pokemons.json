@@ -1,0 +1,182 @@
+[
+    {
+        "name": "Arcanine",
+        "imageUrl": "./src/assets/Arcanine.png",
+        "type": ["Fire"],
+        "weaknesses": ["Water", "Ground", "Rock"]
+    },
+    {
+        "name": "Beedrill",
+        "imageUrl": "./src/assets/Beedrill.png",
+        "type": ["Bug", "Poison"],
+        "weaknesses": ["Fire", "Flying", "Psychic", "Rock"]
+    },
+    {
+        "name": "Blastoise",
+        "imageUrl": "./src/assets/Blastoise.png",
+        "type": ["Water"],
+        "weaknesses": ["Electric", "Grass"]
+    },
+    {
+        "name": "Bulbasaur",
+        "imageUrl": "./src/assets/Bulbasaur.png",
+        "type": ["Grass", "Poison"],
+        "weaknesses": ["Fire", "Ice", "Flying", "Psychic"]
+    },
+    {
+        "name": "Butterfree",
+        "imageUrl": "./src/assets/Butterfree.png",
+        "type": ["Bug", "Flying"],
+        "weaknesses": ["Fire", "Flying", "Rock"]
+    },
+    {
+        "name": "Caterpie",
+        "imageUrl": "./src/assets/Caterpie.png",
+        "type": ["Bug"],
+        "weaknesses": ["Fire", "Flying", "Rock"]
+    },
+    {
+        "name": "Charizard",
+        "imageUrl": "./src/assets/Charizard.png",
+        "type": ["Fire", "Flying"],
+        "weaknesses": ["Water", "Electric", "Rock"]
+    },
+    {
+        "name": "Charmander",
+        "imageUrl": "./src/assets/Charmander.png",
+        "type": ["Fire"],
+        "weaknesses": ["Water", "Ground", "Rock"]
+    },
+    {
+        "name": "Charmeleon",
+        "imageUrl": "./src/assets/Charmeleon.png",
+        "type": ["Fire"],
+        "weaknesses": ["Water", "Ground", "Rock"]
+    },
+    {
+        "name": "Clefable",
+        "imageUrl": "./src/assets/Clefable.png",
+        "type": ["Fairy"],
+        "weaknesses": ["Poison", "Steel"]
+    },
+    {
+        "name": "Dewgong",
+        "imageUrl": "./src/assets/Dewgong.png",
+        "type": ["Water", "Ice"],
+        "weaknesses": ["Electric", "Grass"]
+    },
+    {
+        "name": "Farfetchd",
+        "imageUrl": "./src/assets/Farfetchd.png",
+        "type": ["Normal", "Flying"],
+        "weaknesses": ["Electric", "Ice", "Rock"]
+    },
+    {
+        "name": "Golbat",
+        "imageUrl": "./src/assets/Golbat.png",
+        "type": ["Poison", "Flying"],
+        "weaknesses": ["Electric", "Ice", "Rock"]
+    },
+    {
+        "name": "Ivysaur",
+        "imageUrl": "./src/assets/Ivysaur.png",
+        "type": ["Grass", "Poison"],
+        "weaknesses": ["Fire", "Ice", "Flying", "Psychic"]
+    },
+    {
+        "name": "Kadabra",
+        "imageUrl": "./src/assets/Kadabra.png",
+        "type": ["Psychic"],
+        "weaknesses": ["Bug", "Ghost", "Dark"]
+    },
+    {
+        "name": "Kakuna",
+        "imageUrl": "./src/assets/Kakuna.png",
+        "type": ["Bug", "Poison"],
+        "weaknesses": ["Fire", "Flying", "Rock"]
+    },
+    {
+        "name": "Metapod",
+        "imageUrl": "./src/assets/Metapod.png",
+        "type": ["Bug", "Poison"],
+        "weaknesses": ["Fire", "Flying", "Rock"]
+    },
+    {
+        "name": "Pidgeot",
+        "imageUrl": "./src/assets/Pidgeot.png",
+        "type": ["Normal", "Flying"],
+        "weaknesses": ["Electric", "Ice", "Rock"]
+    },
+    {
+        "name": "Pidgeotto",
+        "imageUrl": "./src/assets/Pidgeotto.png",
+        "type": ["Normal", "Flying"],
+        "weaknesses": ["Electric", "Ice", "Rock"]
+    },
+    {
+        "name": "Pidgey",
+        "imageUrl": "./src/assets/Pidgey.png",
+        "type": ["Normal", "Flying"],
+        "weaknesses": ["Electric", "Ice", "Rock"]
+    },
+    {
+        "name": "Pikachu",
+        "imageUrl": "./src/assets/Pikachu.png",
+        "type": ["Electric"],
+        "weaknesses": ["Ground"]
+    },
+    {
+        "name": "Ponyta",
+        "imageUrl": "./src/assets/Ponyta.png",
+        "type": ["Fire"],
+        "weaknesses": ["Water", "Ground", "Rock"]
+    },
+    {
+        "name": "Raichu",
+        "imageUrl": "./src/assets/Raichu.png",
+        "type": ["Electric"],
+        "weaknesses": ["Ground"]
+    },
+    {
+        "name": "Raticate",
+        "imageUrl": "./src/assets/Raticate.png",
+        "type": ["Normal"],
+        "weaknesses": ["Fighting"]
+    },
+    {
+        "name": "Rattata",
+        "imageUrl": "./src/assets/Rattata.png",
+        "type": ["Normal"],
+        "weaknesses": ["Fighting"]
+    },
+    {
+        "name": "Squirtle",
+        "imageUrl": "./src/assets/Squirtle.png",
+        "type": ["Water"],
+        "weaknesses": ["Electric", "Grass"]
+    },
+    {
+        "name": "Venusaur",
+        "imageUrl": "./src/assets/Venusaur.png",
+        "type": ["Grass", "Poison"],
+        "weaknesses": ["Fire", "Ice", "Flying", "Psychic"]
+    },
+    {
+        "name": "Vulpix",
+        "imageUrl": "./src/assets/Vulpix.png",
+        "type": ["Fire"],
+        "weaknesses": ["Water", "Ground", "Rock"]
+    },
+    {
+        "name": "Wartortle",
+        "imageUrl": "./src/assets/Wartortle.png",
+        "type": ["Water"],
+        "weaknesses": ["Electric", "Grass"]
+    },
+    {
+        "name": "Weedle",
+        "imageUrl": "./src/assets/Weedle.png",
+        "type": ["Bug", "Poison"],
+        "weaknesses": ["Fire", "Flying", "Rock"]
+    }
+]
