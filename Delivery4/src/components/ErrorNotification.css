@@ -1,0 +1,9 @@
+.error-notification {
+    margin: 30px auto 0;
+    padding: 20px 40px;
+    width: 80%;
+    font-size: 20px;
+    border: 1px solid red;
+    color: red;
+    background-color: rgb(244, 244, 244);
+}
