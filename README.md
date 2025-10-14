@@ -32,3 +32,8 @@ To preview the production build locally, run:
 To lint the codebase, run:
 `npm run lint`
 
+## Test
+To test the app, run:
+`npm run test`
+
+This is available in Delivery5 folder
